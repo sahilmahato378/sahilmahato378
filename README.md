@@ -1,15 +1,22 @@
 
 <div align="center">
 
-# <span style="color:#00F7FF;">Sahil Mahato</span>
-
-### <span style="color:#8A2BE2;"> Full Stack Developer • Backend Learner • Software Engineer</span>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=270&color=0:7F00FF,50:E100FF,100:00DBDE&text=Sahil%20Mahato&fontColor=FFFFFF&fontSize=56&animation=fadeIn&font=Michroma&fontAlignY=38&desc=Code%20Creator%20•%20AI%20Explorer%20•%20Problem%20Solver&descAlignY=60&descSize=20"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=1000&lines=FULL+STACK+DEVELOPER;AI+ENTHUSIAST;MODERN+WEB+BUILDER;REACT+%2B+NODE.JS" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Michroma&size=30&duration=3500&pause=1000&color=F8FAFC&center=true&vCenter=true&width=1000&lines=Built+Modern+Full+Stack+Projects;Passionate+About+AI+And+Web+Development;Exploring+Scalable+Backend+Systems;Creating+Futuristic+Digital+Experiences;Always+Learning+And+Building;React+•+Node.js+•+MySQL" />
 </p>
 
+
+
 </div>
+
+
+
+
+
+
+
 <p align="center">
 
 <a href="https://instagram.com/___.sahill.___">
