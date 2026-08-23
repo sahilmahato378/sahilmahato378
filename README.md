@@ -40,6 +40,9 @@
 ![](https://streak-stats.demolab.com/?user=sahilmahato378&theme=darcula&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sahilmahato378&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🧩 LeetCode
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/sahilmahato?theme=dark)](https://leetcode.com/u/sahilmahato/)
 
 
 ### ✍️ Random Dev Quote
