@@ -147,9 +147,10 @@ orders, goods receiving, reports and AI-powered supplier assistance.
 
 ## 🧩 LeetCode
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/sahilmahato?theme=dark)](https://leetcode.com/u/sahilmahato/)
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/sahilmahato378/sahilmahato378/gh-pages/github-contribution-grid-snake.svg)
+<img src="https://leetcard.jacoblin.cool/sahilmahato?theme=dark&ext=heatmap&radius=12" />
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
