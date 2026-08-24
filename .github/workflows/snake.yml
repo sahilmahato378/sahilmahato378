@@ -19,13 +19,16 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-          
-  dist/github-contribution-grid-snake.svg?color_snake=%2300ffff&color_dots=%23161b22%2330134d%235b21b6%238a2be2%23c084fc
-  dist/github-contribution-grid-snake-dark.svg?color_snake=%2300ffff&color_dots=%230b0b14%2330134d%237b2cbf%23a855f7%23e879f9f
+            dist/github-contribution-grid-snake.svg?color_snake=#00ffff&color_dots=#0b0b14,#30134d,#5b21b6,#8a2be2,#c084fc
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#00ffff&color_dots=#0b0b14,#30134d,#7b2cbf,#a855f7,#e879f9
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Push Snake to gh-pages
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           build_dir: dist
+          target_branch: gh-pages
+          commit_message: "Update snake animation"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
