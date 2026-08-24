@@ -44,6 +44,7 @@
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/sahilmahato?theme=dark)](https://leetcode.com/u/sahilmahato/)
 
+![Snake animation](https://raw.githubusercontent.com/sahilmahato378/sahilmahato378/gh-pages/github-contribution-grid-snake.svg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
