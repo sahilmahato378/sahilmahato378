@@ -35,10 +35,101 @@
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sahilmahato378&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sahilmahato378&theme=darcula&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sahilmahato378&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🗺️ Intelligent Route Optimization System</h3>
+
+<p>
+Intelligent route planning system that optimizes routes based on distance,
+traffic, delivery priorities, vehicle capacity and multiple destinations.
+</p>
+
+<p>
+<strong>Tech Stack</strong><br><br>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Maps_API-4285F4?style=flat-square&logo=googlemaps&logoColor=white">
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🧠 Codebase Intelligence Platform</h3>
+
+<p>
+Developer tool that analyzes GitHub repositories, visualizes architecture,
+maps dependencies, detects code complexity and uses AI to explain code.
+</p>
+
+<p>
+<strong>Tech Stack</strong><br><br>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/AI-8A2BE2?style=flat-square">
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🛡️ Cybersecurity Threat Detection Dashboard</h3>
+
+<p>
+Security analytics platform that analyzes network and security logs,
+detects suspicious activity, identifies attack patterns and visualizes
+potential threats in real time.
+</p>
+
+<p>
+<strong>Tech Stack</strong><br><br>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🏢 Supplier Relationship Management Portal</h3>
+
+<p>
+Enterprise SRM platform for managing suppliers, RFQs, bidding,
+orders, goods receiving, reports and AI-powered supplier assistance.
+</p>
+
+<p>
+<strong>Tech Stack</strong><br><br>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+</p>
+
+
+</td>
+
+</tr>
+</table>
 
 ## 🧩 LeetCode
 
