@@ -32,8 +32,9 @@
 </a>
 
 </p>
+<h2 align="left"><u>👨‍💻 About Me</u></h2>
 
-## 🚀 Featured Projects
+I'm a Computer Science engineering student at **GITA Autonomous College** with a strong interest in **Full-Stack Development, Data Structures & Algorithms, and AI**. I enjoy building practical applications, solving programming problems, and continuously exploring new technologies to strengthen my development skills. Currently, I'm working on an **Intelligent Route Optimization System** that focuses on solving real-world routing and optimization challenges. Alongside development, I'm consistently practicing **DSA and LeetCode** to improve my problem-solving and algorithmic thinking. I'm passionate about turning ideas into useful products and aim to grow into a well-rounded **Software Engineer** capable of building efficient, scalable, and impactful solutions.
 
 <table>
 <tr>
