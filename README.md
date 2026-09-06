@@ -128,7 +128,7 @@ orders, goods receiving, reports and AI-powered supplier assistance.
 
 </tr>
 <p align="center">
-  <a href=>
+  <a href="https://github.com/sahilmahato378/SRM-PROJECT.git">
     <strong>View Repository →</strong>
   </a>
 </p>
