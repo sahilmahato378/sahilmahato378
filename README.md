@@ -127,6 +127,11 @@ orders, goods receiving, reports and AI-powered supplier assistance.
 </td>
 
 </tr>
+<p align="center">
+  <a href=>
+    <strong>View Repository →</strong>
+  </a>
+</p>
 </table>
 ## 🛠️ Tech Stack
 
